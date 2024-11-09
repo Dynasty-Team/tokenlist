@@ -19,7 +19,7 @@
         "symbol": "USDT",
         "decimals": 18,
         "chainId": 701322,
-        "logoURI": "https://raw.githubusercontent.com/Dynasty-Team/tokenlist/refs/heads/main/usdt.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/binance/assets/USDT-6D8/logo.png"
       },
       {
         "name": "Wrapped DNY",
